@@ -33,7 +33,7 @@ A curated collection of data analysis projects where I apply R, and statistical 
 
 ### [Baseball MVP Analysis – 1986 MLB Season](https://github.com/tramylttm2210/Baseball-MVP-Analysis-1986-MLB-Season-)  
 **Purpose:** Identify the most valuable players using performance metrics from the 1986 MLB season.  
-**Techniques:** Z-score normalization, ranking metrics, data visualization.
+**Techniques:** Ranking metrics, data visualization.
 
 
 ---
