@@ -47,6 +47,7 @@ A curated collection of data analysis projects where I apply R, and statistical 
 ### [Evaluating E-Commerce Platform Performance](https://github.com/tramylttm2210/Evaluating-E-Commerce-Platform-Performance-A-Statistical-Analysis-of-Bounce-and-Conversion-Rates-)  
 **Purpose:** Benchmark bounce and conversion rates to assess user engagement and funnel efficiency.  
 **Techniques:** One-sample *t*-test, binomial test, CI estimation, KPI comparison.
+
 ---
 
 ### [Forecasting Career Outcomes from Academic Performance](https://github.com/tramylttm2210/Forecasting-Career-Outcomes-from-Academic-Performance)  
