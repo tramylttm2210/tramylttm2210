@@ -10,6 +10,8 @@ With a background in research, communication, and marketing, I apply technical s
 ****Languages:** R
 **Techniques:** Data cleaning, EDA, statistical inference, modeling, storytelling  
 **Tools:** ggplot2, dplyr, tidyr, lubridate, pandas, matplotlib, Excel**
+
+---
 ---
 
 ## Featured Projects: Purpose & Techniques
