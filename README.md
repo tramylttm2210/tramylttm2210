@@ -67,3 +67,4 @@ A curated collection of data analysis projects where I apply R, and statistical 
 
 📬 Feel free to explore my work and reach out if you'd like to collaborate or learn more!  
 📫 Email: `le.thitr@northeastern.edu`  
+🌐 LinkedIn: https://www.linkedin.com/in/my-kaylie-le-667381254/ 
