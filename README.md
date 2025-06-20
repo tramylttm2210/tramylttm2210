@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Trà My!
+# 👋 Hi there, I'm Kaylie!
 
 Welcome to my GitHub profile! I'm passionate about turning data into meaningful stories through analysis, visualization, and statistical modeling.  
 With a background in research, communication, and marketing, I apply technical skills to solve real-world problems across education, business, and society.
